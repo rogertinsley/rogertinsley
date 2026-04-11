@@ -15,12 +15,6 @@ I write code for a living and chase bugs for fun.
 
 ---
 
-### Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=rogertinsley&theme=tokyonight&no-frame=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### Stats
 
 ![Roger's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rogertinsley&theme=tokyonight)
