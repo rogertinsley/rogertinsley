@@ -12,8 +12,8 @@ I write code for a living and chase bugs for fun.
 
 ---
 
-![Roger's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rogertinsley&show_icons=true&hide_border=true&theme=tokyonight&hide=stars)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rogertinsley&layout=compact&hide_border=true&theme=tokyonight)
+![Roger's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rogertinsley&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rogertinsley&theme=tokyonight)
 
 ---
 
