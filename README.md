@@ -5,7 +5,7 @@ I write code for a living and chase bugs for fun.
 🔭 **Currently building:** clean, bug-free software _(wish me luck)_
 🌱 **Exploring:** AI, LLMs, and what they mean for the way we build things
 💬 **Ask me about:** Go · TypeScript · Python
-🌐 **Website:** [rogertinsley.co.uk](https://rogertinsley.co.uk)
+🌐 **Website:** [rogertinsley.co.uk](https://www.rogertinsley.co.uk)
 
 ---
 
