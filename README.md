@@ -12,4 +12,9 @@ I write code for a living and chase bugs for fun.
 
 ---
 
+![Roger's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rogertinsley&show_icons=true&hide_border=true&theme=default&hide=stars)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rogertinsley&layout=compact&hide_border=true&theme=default)
+
+---
+
 > "The best code is the code you don't have to debug."
